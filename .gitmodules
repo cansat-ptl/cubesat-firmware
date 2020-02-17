@@ -1,0 +1,3 @@
+[submodule "cansat-kernel-v2"]
+	path = cansat-kernel-v2
+	url = https://github.com/cansat-ptl/cansat-kernel-v2
